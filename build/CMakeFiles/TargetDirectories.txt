@@ -1,0 +1,7 @@
+/home/cosmic/coding/github_projects/PersonDatabase/build/CMakeFiles/edit_cache.dir
+/home/cosmic/coding/github_projects/PersonDatabase/build/CMakeFiles/rebuild_cache.dir
+/home/cosmic/coding/github_projects/PersonDatabase/build/src/CMakeFiles/main.dir
+/home/cosmic/coding/github_projects/PersonDatabase/build/src/CMakeFiles/edit_cache.dir
+/home/cosmic/coding/github_projects/PersonDatabase/build/src/CMakeFiles/rebuild_cache.dir
+/home/cosmic/coding/github_projects/PersonDatabase/build/include/CMakeFiles/edit_cache.dir
+/home/cosmic/coding/github_projects/PersonDatabase/build/include/CMakeFiles/rebuild_cache.dir
